@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineering student building data analytics projects using SQL, Python, and Power BI.
+Computer Engineering student specializing in data analytics and business problem solving. I build end-to-end projects that go beyond dashboards — focusing on root cause analysis, user behavior, and actionable insights using Python, SQL, and Power BI.
 
 
 ## 🌐 Socials:

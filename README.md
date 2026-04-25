@@ -1,7 +1,12 @@
 # 💫 About Me:
-Computer Engineering student focused on solving business problems using data. I build analytics projects that go beyond dashboards—analyzing user behavior, identifying root causes, and translating insights into actionable growth strategies using Python, SQL, and Power BI.
+I’m a Computer Engineering student focused on solving real business problems using data. My work goes beyond building dashboards—I analyze user behavior, identify root causes behind performance gaps, and translate findings into actionable insights.
 
-Focus areas: Funnel analysis • Cohort retention • Product performance • Growth analytics
+I’ve worked on end-to-end analytics projects covering funnel analysis, cohort retention, traffic source evaluation, and revenue performance. My focus is on understanding why metrics move, not just reporting them.
+
+Tools: Python, SQL, Power BI
+Focus Areas: Conversion analysis • Retention • Growth analytics • Product performance
+
+Currently building data-driven case studies focused on improving user retention and conversion.
 
 
 ## 🌐 Socials:

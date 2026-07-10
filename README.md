@@ -3,7 +3,7 @@ I’m a Computer Engineering student focused on solving real business problems u
 
 I’ve worked on end-to-end analytics projects covering funnel analysis, cohort retention, traffic source evaluation, and revenue performance. My focus is on understanding why metrics move, not just reporting them.
 
-Tools: Python, SQL, Power BI
+Tools: Python, SQL, Power BI, MS Excel
 Focus Areas: Conversion analysis • Retention • Growth analytics • Product performance
 
 Currently building data-driven case studies focused on improving user retention and conversion.

@@ -54,7 +54,7 @@ I enjoy asking questions, working through messy datasets, and building projects 
 
 And if you're wondering whether I can make a dashboard in five minutes...
 Absolutely.
-Just don't ask me how long I'll spend perfecting the spacing. 😭
+Just don't ask me how long I'll spend perfecting the spacing. 🕸️
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sampathmoolya93) 

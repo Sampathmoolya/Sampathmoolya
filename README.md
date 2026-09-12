@@ -13,6 +13,7 @@ A little like turning carbon into a diamond.
 ### 💻 SQL Has a Special Place
 
 There's something satisfying about taking a question, writing a query, and watching the data reveal an answer.
+
 Once, my crush asked me for a three-letter expression of love.
 
 I said **SQL**. 😭

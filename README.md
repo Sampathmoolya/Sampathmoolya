@@ -53,7 +53,9 @@ I enjoy asking questions, working through messy datasets, and building projects 
 **Still asking why. Still learning. Still building.**
 
 And if you're wondering whether I can make a dashboard in five minutes...
+
 Absolutely.
+
 Just don't ask me how long I'll spend perfecting the spacing. 🕸️
 
 ## 🌐 Socials:

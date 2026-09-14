@@ -6,7 +6,6 @@ I've always been the kind of person who couldn't simply accept a rule without un
 And honestly, I don't think that habit ever left me.
 It just found a new place in data, where numbers raise questions, patterns spark curiosity, and every answer seems to lead to another "why?"
 
-### 💎 From Carbon to Diamonds
 I like the messy part of data. Cleaning, transforming, and modeling might not be the most exciting work, but it's how you turn something rough into something valuable.
 A little like turning carbon into a diamond.
 

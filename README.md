@@ -1,73 +1,90 @@
-# 👋 Hey, I'm Sampath.
+<h1 data-importer="text" align="left">👋 Hey, I'm Sampath.</h1>
 
-I've always been the kind of person who couldn't simply accept a rule without understanding the reason behind it.
+###
 
-**"Why?"** was often my first question — not to argue, but to make sense of things.
-And honestly, I don't think that habit ever left me.
-It just found a new place in data, where numbers raise questions, patterns spark curiosity, and every answer seems to lead to another "why?"
+<p data-importer="text" align="left">somewhere in the data world.</p>
 
-I like the messy part of data. Cleaning, transforming, and modeling might not be the most exciting work, but it's how you turn something rough into something valuable.
-A little like turning carbon into a diamond.
+###
 
-### 💻 SQL Has a Special Place
+<h2 data-importer="text" align="left">About me</h2>
 
-There's something satisfying about taking a question, writing a query, and watching the data reveal an answer.
+###
 
-Once, my crush asked me for a three-letter expression of love.
+<p data-importer="text" align="left"></p>
 
-I said **SQL**. 😭
+###
 
-### 🎨 A Little Too Particular About Dashboards
+<h2 data-importer="text" align="left">what i work with</h2>
 
-I enjoy turning analysis into dashboards, but making them look good is a whole different challenge.
-Layouts, colors, spacing, visual hierarchy, and those tiny details that nobody notices until they're wrong — I care about them.
-I can spend an unreasonable amount of time making everything feel just right.
-Maybe it's perfectionism. Maybe I just like making things beautiful.
+###
 
-Probably both.
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
 
-### 🛠️ My Toolkit
+###
 
-**Data Analytics & Statistics**
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/sampath-moolya-7b70bb343/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="maybe_him93_13972" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/sampathmoolya_93/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/sampathsmoolya" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
+</div>
 
-SQL · Python · Pandas · NumPy · Matplotlib · Statistics · Exploratory Data Analysis
+###
 
-**Business Intelligence**
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
-Power BI · DAX · Data Modeling · Microsoft Excel · Power Query
+###
 
-**Data Foundations**
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
-DBMS · Data Cleaning · Data Transformation · Relational Databases · MongoDB
+###
 
-**Exploring the Ecosystem**
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sampathmoolya/Sampathmoolya/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sampathmoolya/Sampathmoolya/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sampathmoolya/Sampathmoolya/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-Microsoft Fabric · AWS S3 · Snowflake · n8n · Basic Machine Learning
-
-### 🚀 What I'm Working Toward
-
-I'm building my path in data analytics, strengthening my technical foundations, and exploring the engineering behind reliable, useful data.
-I enjoy asking questions, working through messy datasets, and building projects that turn complexity into something people can understand.
-
-**Still asking why. Still learning. Still building.**
-
-And if you're wondering whether I can make a dashboard in five minutes...
-
-Absolutely.
-
-Just don't ask me how long I'll spend perfecting the spacing. 🥲
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sampathmoolya93) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sampathmoolya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sampathmoolya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sampathmoolya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Sampathmoolya&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###

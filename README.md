@@ -6,7 +6,8 @@
 
 ###
 
-<h2 data-importer="text" align="left">I've always been the kind of person who couldn't simply accept a rule without understanding the reason behind it.
+<h2 data-importer="text" align="left">
+  I've always been the kind of person who couldn't simply accept a rule without understanding the reason behind it.
 
 **"Why?"** was often my first question — not to argue, but to make sense of things. That habit eventually found a new place in data, where numbers raise questions, patterns spark curiosity, and every answer leads to another "why?"
 

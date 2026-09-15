@@ -1,49 +1,18 @@
-I've always been the kind of person who couldn't simply accept a rule without understanding the reason behind it.
+# 💫 About Me:
+<br>I've always been the kind of person who asks **"Why?"** — not to argue, but to understand. That habit found a new home in data, where numbers raise questions, patterns spark curiosity, and every answer leads to another "why?"<br><br>I like the messy part of data. Cleaning, transforming, and modeling might not be the most exciting work, but it's how you turn something rough into something valuable. A little like turning carbon into a diamond.<br><br>**💻 SQL Has a Special Place**<br><br>There's something satisfying about writing a query and watching the data reveal an answer.<br><br>Once, my crush asked me for a three-letter expression of love.<br><br>I said **SQL**. 😭<br><br>**🎨 A Little Too Particular About Dashboards**<br><br>I enjoy turning analysis into dashboards, but making them look good is a whole different challenge. Layouts, colors, spacing, visual hierarchy — I care about the tiny details.<br><br>Maybe it's perfectionism. Probably both.<br><br>**🛠️ Under the Hood**<br><br>**Data Analytics:** SQL · Python · Pandas · NumPy · Matplotlib · Statistics · EDA<br><br>**Business Intelligence:** Power BI · DAX · Data Modeling · Excel · Power Query<br><br>**Data Foundations:** DBMS · Data Cleaning · Data Transformation · Relational Databases · MongoDB<br><br>**Exploring:** Microsoft Fabric · AWS S3 · Snowflake · n8n · Basic Machine Learning<br><br>**🚀 What I'm Working Toward**<br><br>Building my path in data analytics, strengthening my technical foundations, and exploring the engineering behind reliable, useful data.<br><br>I enjoy working through messy datasets and building projects that turn complexity into something people can understand.<br><br>**Still asking why. Still learning. Still building.**<br><br>And if you're wondering whether I can make a dashboard in five minutes...<br><br>Absolutely.<br><br>Just don't ask me how long I'll spend perfecting the spacing. 🥲
 
-**"Why?"** was often my first question — not to argue, but to make sense of things. And honestly, I don't think that habit ever left me. It just found a new place in data, where numbers raise questions, patterns spark curiosity, and every answer seems to lead to another "why?"
 
-I like the messy part of data. Cleaning, transforming, and modeling might not be the most exciting work, but it's how you turn something rough into something valuable. A little like turning carbon into a diamond.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sampathmoolya_93/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sampath-moolya-7b70bb343) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sampath.moolya05wrk@gmail.com) 
 
-### 💻 SQL Has a Special Place
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Sampathmoolya&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Sampathmoolya&theme=shadow_blue&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sampathmoolya&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-There's something satisfying about taking a question, writing a query, and watching the data reveal an answer.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-Once, my crush asked me for a three-letter expression of love.
-
-I said **SQL**. 😭
-
-### 🎨 A Little Too Particular About Dashboards
-
-I enjoy turning analysis into dashboards, but making them look good is a whole different challenge. Layouts, colors, spacing, visual hierarchy, and those tiny details that nobody notices until they're wrong — I care about them. I can spend an unreasonable amount of time making everything feel just right. Maybe it's perfectionism. Maybe I just like making things beautiful.
-
-Probably both.
-
-### 🛠️ My Toolkit
-
-**Data Analytics & Statistics**
-
-SQL · Python · Pandas · NumPy · Matplotlib · Statistics · Exploratory Data Analysis
-
-**Business Intelligence**
-
-Power BI · DAX · Data Modeling · Microsoft Excel · Power Query
-
-**Data Foundations**
-
-DBMS · Data Cleaning · Data Transformation · Relational Databases · MongoDB
-
-**Exploring the Ecosystem**
-
-Microsoft Fabric · AWS S3 · Snowflake · n8n · Basic Machine Learning
-
-### 🚀 What I'm Working Toward
-
-I'm building my path in data analytics, strengthening my technical foundations, and exploring the engineering behind reliable, useful data. I enjoy asking questions, working through messy datasets, and building projects that turn complexity into something people can understand.
-
-**Still asking why. Still learning. Still building.**
-
-And if you're wondering whether I can make a dashboard in five minutes...
-
-Absolutely.
-
-Just don't ask me how long I'll spend perfecting the spacing. 🥲
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
